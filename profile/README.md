@@ -6,7 +6,7 @@ Hi there👋! Welcome to ComputeNepal.
 
 
 
-![Banner](profile/computenepal-banner.jpg)
+![Banner](./computenepal-banner.jpg)
 
 
 ## Website
